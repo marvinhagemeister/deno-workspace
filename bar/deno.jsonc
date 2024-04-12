@@ -1,0 +1,7 @@
+{
+  "name": "@marvinh-test/bar",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./mod.ts"
+  }
+}
